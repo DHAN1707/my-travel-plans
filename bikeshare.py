@@ -23,7 +23,8 @@ def get_filters():
 
 
     # get user input for day of week (all, monday, tuesday, ... sunday)
-
+	# We did changes for refactoring branches. 
+	# this will update on remote github
 
     print('-'*40)
     return city, month, day
